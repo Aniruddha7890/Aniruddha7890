@@ -1,41 +1,34 @@
-### Hi there 👋 
-### This is Fernando Roldán!
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
-
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
-
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+Hi there 👋
+This is Aniruddha!
 
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
 
-#### :computer: Programming languages and tools: 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+Welcome to my GitHub! I'm Aniruddha — a passionate Software Developer with a strong foundation in full-stack web development and DevOps, with a flair for problem-solving and building scalable systems.
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<img align="right" alt="img" src="https://user-images.githubusercontent.com/yourimagehere.jpg" width="50%" height="auto" />
+🌱 Currently Working On:
+Enhancing a Baseball League Management System using Laravel, React, and MySQL
+
+Integrating Stripe and PayPal payments for secure transactions
+
+Adding calendar-based event features for coaches and team members
+
+Learning Redis and diving deeper into Node.js
+
+💪 Goals I'm Working Toward:
+Mastering containerization and orchestration with Docker and Kubernetes
+
+Solving DSA problems consistently to improve problem-solving skills
+
+Contributing to open-source projects
+
+Maintaining work-life balance with fitness and consistent coding practice
+
+💻 Languages & Tools I Use:
+<p> <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&hide_border=true" />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> <br/> <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code> <br/> <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>
+
 </p>
+<sub>PS: Cover image placeholder — feel free to add a project screenshot or something creative!</sub>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
