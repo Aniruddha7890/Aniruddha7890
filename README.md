@@ -1,4 +1,4 @@
-#Hi there 👋
+# 👋 Hi,
 I'm Aniruddha Majumdar,
 
 **Software Engineer | Laravel & Node.js Developer | Flutter Enthusiast**
