@@ -6,7 +6,7 @@ This is Aniruddha!
 
 Welcome to my GitHub! I'm Aniruddha — a passionate Software Developer with a strong foundation in full-stack web development and DevOps, with a flair for problem-solving and building scalable systems.
 
-<img align="right" alt="img" src="https://user-images.githubusercontent.com/yourimagehere.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/raw/master/cover_image.jpg" width="50%" height="auto" style="max-width: 100%;">
 🌱 Currently Working On:
 Enhancing a Baseball League Management System using Laravel, React, and MySQL
 
